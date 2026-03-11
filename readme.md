@@ -7,6 +7,10 @@ Dataset:
 
 ## The Physical Idea
 
+<p align="center">
+  <img src="heartbeat.jpg" alt="heartbeat">
+</p>
+
 A healthy heart is **not a metronome**. Its beat-to-beat intervals fluctuate in a structured, non-random way. The paper by Kiyono et al. argues this fluctuation has a **fractal, scale-free structure** - the same statistical signature we see in systems sitting at a **critical point** (like water at exactly 100°C, or a magnet at its Curie temperature). This is not trivial: it means the heart's regulatory system is continuously tuned to operate near criticality, which is associated with maximum adaptability and sensitivity.
 
 ---
